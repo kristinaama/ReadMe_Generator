@@ -57,7 +57,7 @@ inquirer
     console.log(outputText);
     console.log(results);
     license = results.license;
-    fs.writeFile("README.md", outputText, (error) => {
+    fs.writeFile("GENERATEDREADME.md", outputText, (error) => {
         if (error) {
             console.error(error);
         } else {
