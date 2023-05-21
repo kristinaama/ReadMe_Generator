@@ -35,8 +35,12 @@
  The JavaScript code can be downloaded via the ReadMe Generator folder on my Github page.
 
   ## Usage:
-  This ReadMe Generator is intended for easy viewing and navigation. The user begins by typing 'node index.js' in the command line. The prompts are intuitive and user inputs from the command line will be put into a ReadMe file.
+  This ReadMe Generator is intended for easy viewing and navigation. The user begins by typing 'node index.js' in the command line. The prompts are intuitive and user inputs from the command line will be put into a ReadMe file, titled GENERATEDREADME.md.
+  
+  https://github.com/kristinaama/ReadMe_Generator/assets/127279859/13c1cfa2-7a88-45b1-a0ee-75527125895f
 
+  An example of how to use this ReadMe Generator can be found here: https://drive.google.com/file/d/1DNDTzyZljEkLB_-fVLkPczjNZxFAcmIS/view?usp=sharing
+  
   ## Contributions:
   Samantha Rudolph - UC Berkeley Extension Instructor
 
